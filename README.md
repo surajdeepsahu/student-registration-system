@@ -18,3 +18,27 @@ A comprehensive Student Registration System built with React.js that manages cou
 ## Installation
 
 1. Clone the repository:
+git clone https://github.com/YOUR_USERNAME/student-registration-system.git
+cd student-registration-system
+
+text
+
+2. Install dependencies:
+npm install
+
+text
+
+3. Start the development server:
+npm start
+
+text
+
+## Technologies Used
+
+- React.js
+- Tailwind CSS
+- localStorage for data persistence
+
+## License
+
+MIT License
